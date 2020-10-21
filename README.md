@@ -5,8 +5,13 @@
 </a> 
 <a href="https://stackoverflow.com/users/396567/michael-hausenblas"><img src="https://stackoverflow.com/users/flair/396567.png" height="58"></a>
 
-I'm an Open Source Product Developer Advocate in the [AWS Elastic Containers](https://aws.amazon.com/containers/) service team and serve as an [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at CNCF. My goal is to help you be successful with containerized workloads and learn about your pain points. I'm focusing on observability (incl. but not limited to [Prometheus](https://prometheus.io/) and [BPF](https://ebpf.io/)) as well as service meshes (especially [SMI](https://smi-spec.io/)). I'm also interested & proficient in Kubernetes, GitOps, security/compliance as well as the [UX of AWS services](https://ux.aws-cloud.dev/), and last but not least in the advance of applications on Arm-based systems like on our [Graviton](https://aws.amazon.com/ec2/graviton/) offering.
+I'm an Open Source Product Developer Advocate in the [AWS Elastic Containers](https://aws.amazon.com/containers/) service team and serve as an [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at CNCF. My goal is to help you be successful with containerized workloads and learn about your pain points. I'm focusing on observability (incl. but not limited to [Prometheus](https://prometheus.io/) and [BPF](https://ebpf.io/)) as well as service meshes (especially [SMI](https://smi-spec.io/)). 
 
-I mainly use Go, Rust, and shell scripts in my day to day work, but also have done Python, C/C++, Java, and PHP.
+I'm also interested & proficient in Kubernetes, GitOps, security/compliance as well as the [UX of AWS services](https://ux.aws-cloud.dev/), and last but not least in the advance of applications on Arm-based systems like on our [Graviton](https://aws.amazon.com/ec2/graviton/) offering.
+
+Occasionally, I do live streams either via my [personal site](https://live.mh9.dev/) or via [Containers From The Couch](https://containersfromthecouch.com/).
+
+In my day to day work I mainly use Go, Rust, and shell scripts, but also have done Python, C/C++, Java, and PHP.
+
 
 
