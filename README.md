@@ -9,7 +9,7 @@ I'm an Open Source Product Developer Advocate in the [AWS Elastic Containers](ht
 
 I'm also interested & proficient in Kubernetes, GitOps, security/compliance as well as the [UX of AWS services](https://ux.aws-cloud.dev/), and last but not least in the advance of applications on Arm-based systems like on our [Graviton](https://aws.amazon.com/ec2/graviton/) offering.
 
-Occasionally, I do live streams either via my [personal site](https://live.mh9.dev/) or via [Containers From The Couch](https://containersfromthecouch.com/).
+Occasionally, I do live streams either via my [personal site](https://live.mh9.dev/) or via [Containers From The Couch](https://containersfromthecouch.com/). If you're more into books, my two current ones are [Programming Kubernetes](https://programming-kubernetes.info/) and [Kubernetes Security](https://kubernetes-security.info/).
 
 In my day to day work I mainly use Go, Rust, and shell scripts, but also have done Python, C/C++, Java, and PHP.
 
