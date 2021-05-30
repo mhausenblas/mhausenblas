@@ -1,6 +1,6 @@
 ### About
 
-I'm a Solution Engineering Lead at [AWS](https://aws.amazon.com/containers/) and serve as a [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at CNCF, focusing on observability (Prometheus/OpenMetrics, Grafana, OpenTelemetry, OpenSearch, Fluent Bit) as well as service meshes, especially in my role as an [SMI](https://smi-spec.io/) maintainer.
+I'm a Solution Engineering Lead at [AWS](https://aws.amazon.com/containers/) and serve as a [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at CNCF, focusing on open source observability (Prometheus/OpenMetrics, Grafana, OpenTelemetry, OpenSearch, Fluent Bit) as well as service meshes, especially in my role as an [SMI](https://smi-spec.io/) maintainer.
 
 I'm also interested and proficient in Kubernetes, GitOps, security & compliance as well as in the advance of applications on Arm-based systems such as on our [Graviton](https://aws.amazon.com/ec2/graviton/) offerings.
 
