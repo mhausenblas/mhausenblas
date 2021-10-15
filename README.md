@@ -4,7 +4,7 @@ I'm a Solution Engineering Lead at [AWS](https://aws.amazon.com/products/managem
 
 I'm also interested and proficient in Kubernetes, GitOps, security & compliance as well as in the advance of applications on Arm-based systems such as on our [Graviton](https://aws.amazon.com/ec2/graviton/) offerings.
 
-Also, check out the [Hacking Kubernetes](http://h4ck1ng-kubernets.info) book I co-authored as well as [Learning Modern Linux](https://modern-linux.info/), which is currently available in Early Release at O’Reilly .
+Also, check out the [Hacking Kubernetes](https://h4ck1ng-kubernets.info) book I co-authored as well as [Learning Modern Linux](https://modern-linux.info/), which is currently available in Early Release at O’Reilly.
 
 In my day to day work I mainly use Go, Rust, and shell scripts, but also have done Python, C/C++, Java, and PHP.
 
