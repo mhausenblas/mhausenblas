@@ -8,5 +8,9 @@ To reach me, please use:
 * For all other topics, such as open source or personal messages, via e-mail: [mh9@aws-cloud.dev](mailto:mh9@aws-cloud.dev).
 * I'm usually hanging out on CNCF Slack and also my Twitter DMs are open (IOW you don't need to follow me to message me there).
 
-If you're interested in observability, consider subscribing to my [weekly observability newsletter](http://o11y.news/) and check out the book I'm currently writing with Manning called [Cloud Observability in Action](https://o11y-in-action.cloud/).
+If you're interested in observability:
+
+* Consider subscribing to my [weekly observability newsletter](http://o11y.news/).
+* Listen to my podcast on [OpenTelemetry in use](https://inuse.o11y.engineering/).
+* Check out my most recent book [Cloud Native Observability in Action](https://o11y-in-action.cloud/) with Manning.
 
