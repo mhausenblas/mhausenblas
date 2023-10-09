@@ -4,6 +4,8 @@ I work in the [AWS open source observability service team](https://aws.amazon.co
 
 From 2018 to 2022 I served as a [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at CNCF, focusing on Kubernetes, Prometheus, and OpenTelemetry. Time allowing, I do experiments and write tools using Go, Rust, and shell scripts, and over the past 25+ years I have also used Python, C/C++, Java, and PHP in various open source and proprietary projects and products.
 
+Before AWS, I worked at Red Hat in the OpenShift BU, at Mesosphere (now D2iQ) on DC/OS and Kubernetes, at MapR (now part of HPE) on Hadoop & Drill, and prior to that I spent more than a decade in applied research, in the field of symbolic AI.
+
 To reach me, please use:
 
 * For AWS-related topics, via e-mail: [hausenbl@amazon.com](mailto:hausenbl@amazon.com).
