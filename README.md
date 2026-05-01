@@ -1,6 +1,6 @@
 ### About
 
-I'm a product builder with a focus on observability and cloud opertions, especially with [OpenTelemetry](https://aws.amazon.com/otel/). My framework is based on a [Return on Investment (RoI)-Driven](https://arxiv.org/abs/2303.13402) strategy and I especially like brownfield environments.
+I'm a software builder, focusing on observability and cloud operations, especially using [OpenTelemetry](https://aws.amazon.com/otel/). My framework is based on a [Return on Investment (RoI)-Driven](https://arxiv.org/abs/2303.13402) strategy and I especially like brownfield environments.
 
 From 2018 to 2022 I served as a [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at the Cloud Native Computing Foundation (CNCF), focusing on Kubernetes, Prometheus, and OpenTelemetry. Over the past 35 years I wrote, deployed, and operated software using Go, Rust, Bash scripts, Python, C/C++, Java, and PHP in various open-source projects and proprietary products.
 
