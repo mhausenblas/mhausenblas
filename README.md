@@ -1,10 +1,10 @@
 ### About
 
-I'm a software builder, focusing on observability and cloud operations, especially using [OpenTelemetry](https://aws.amazon.com/otel/). My framework is based on a [Return on Investment (RoI)-Driven](https://arxiv.org/abs/2303.13402) strategy and I especially like brownfield environments.
+I'm a Principal Software Engineer in the Genesys SRE team, focusing on observability and cloud operations, especially using [OpenTelemetry](https://aws.amazon.com/otel/). My framework is based on a [Return on Investment (RoI)-Driven](https://arxiv.org/abs/2303.13402) strategy and I especially like brownfield environments.
 
 From 2018 to 2022 I served as a [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) at the Cloud Native Computing Foundation (CNCF), focusing on Kubernetes, Prometheus, and OpenTelemetry. Over the past 35 years I wrote, deployed, and operated software using Go, Rust, Bash scripts, Python, C/C++, Java, and PHP in various open-source projects and proprietary products.
 
-Before AWS, I worked at Red Hat in the OpenShift business unit, at Mesosphere (later D2IQ) on DC/OS and Kubernetes, at MapR (now part of HPE) on Apache Hadoop and Apache Drill, and prior to that I spent more than 11 years in applied research, in the field of symbolic AI.
+Before Genesys, I worked in several AWS service teams for 7 years, at Red Hat in the OpenShift business unit, at Mesosphere (later D2IQ) on DC/OS and Kubernetes, at MapR (now part of HPE) on Apache Hadoop and Apache Drill, and prior to that I spent 10+ years in applied research, working on symbolic AI.
 
 Contact:
 
